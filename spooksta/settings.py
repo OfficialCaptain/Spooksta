@@ -25,7 +25,7 @@ SECRET_KEY = 'b(of%(8#o*&-fd!!mo=x8=3kovuygj@7le+7bn^h&+hn8%@j!d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['spooksta.herokuapp.com']
+ALLOWED_HOSTS = [spooksta.herokuapp.com]
 
 
 # Application definition
